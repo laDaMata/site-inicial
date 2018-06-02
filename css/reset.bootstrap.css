@@ -1,0 +1,22 @@
+.navbar-default {
+	background:none;
+	border:none;
+}
+
+.navbar-collapse .navbar-nav li a {
+	color:#FFFFFF;
+}
+
+.navbar-collapse .navbar-nav li a:hover {
+	background:#FF00FF;
+	color:#FFFFFF;
+}
+
+.navbar-collapse .navbar-nav li.active a {
+	background:#FFFF00;
+}
+
+.navbar-collapse .navbar-nav li.active a:hover {
+	background:#FF00FF;
+	color:#FFFFFF;
+}
